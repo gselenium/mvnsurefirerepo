@@ -1,0 +1,8 @@
+<!-- This is my test suite -->
+<suite name="My suite">
+	<test name="login">
+		<classes>
+			<class name="com.gktech.testcases.resources.Login"></class>
+		</classes>
+	</test>
+</suite>
